@@ -1,0 +1,16 @@
+#zakat {
+  border: 1px solid black;
+  width: 180px;
+  height: 17px;
+  position: relative;
+  bottom: 36px;
+  left: 280px;
+  padding: 2px;
+}
+#click {
+  position: absolute;
+  top: 30px;
+}
+body {
+  background-image: url("station.jpg");
+}
